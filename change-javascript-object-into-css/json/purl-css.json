@@ -1,0 +1,31 @@
+{
+	"el": {
+		"position": "relative"
+	},
+	"input": {
+		"inputDiv": {
+			"border": "2px solid #aaa",
+			"padding": "2px"
+		},
+		"input": {
+			"width": "83%",
+			"padding": "1%",
+			"border": "none"
+		},
+		"label": {
+			"display": "none"
+		}
+	},
+	"submitDiv": {
+		"position": "absolute",
+		"top": 0,
+		"bottom": 0,
+		"right": 0,
+		"width": "15%"
+	},
+	"submitButton": {
+		"height": "100%",
+		"width": "100%",
+		"textAlign": "center"
+	}
+}
